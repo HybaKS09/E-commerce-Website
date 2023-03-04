@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background: rgb(244, 193, 117);
+    background: radial-gradient(circle, rgb(122, 44, 78)0%, rgb(177, 176, 176)100%);
+    color: black;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    margin-top: -35px;
+}
+
+.nav-icon img {
+    width: 30px;
+    margin-left: 30px;
+    margin-top: 10px;
+    cursor: pointer;
+    color: white;
+}
+
+header {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo1 {
+    transition: transform 0.5s ease;
+}
+
+.logo1:hover {
+    transform: scale(0.5);
+}
+
+header ul {
+    position: relative;
+    display: flex;
+}
+
+header ul li {
+    list-style: none;
+}
+
+header ul li a {
+    display: inline-block;
+    color: #333;
+    font-weight: 400;
+    margin-left: 40px;
+    text-decoration: none;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 8%;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: transparent;
+    z-index: 1;
+}
+
+.row {
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+.col-1,
+col-2 {
+    flex-basis: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.col-2 {
+    background: transparent;
+    padding-top: 8%;
+}
+
+.col-1 {
+    padding-left: 8%;
+}
+
+.col-1 h1 {
+    font-size: 50px;
+}
+
+.col-1 h2 {
+    font-size: 35px;
+    margin-top: 10px;
+    font-weight: 500;
+    color: white;
+}
+
+.col-1 p {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+button {
+    display: inline-block;
+    width: fit-content;
+    padding: 18px;
+    background: transparent;
+    border: solid 1.8px black;
+    font-size: 18px;
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+
+button:hover {
+    color: white;
+    border: solid 1.8px white;
+}
+
+.feature-img {
+    width: 150%;
+    margin-left: 50%;
+    text-align: center;
+    background: rgb(122, 44, 78), rgb(159, 161, 159)100%;
+    box-shadow: 0 8px 32px 0 black;
+    backdrop-filter: blu(2px);
+    border-radius: 10px;
+    border: 1px solid rgb(16, 13, 13);
+}
+
+.nav-icon {
+    margin-top: -20px;
+}

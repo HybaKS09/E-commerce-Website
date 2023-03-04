@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.p-1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17.2px;
+    background-color: black;
+}
+.logo_acceuil a img{
+    margin-top: 15px;
+    margin-left: 80px;
+    width: 90px;
+    height: 90px;
+}
+
+.header input{
+    width: 600px;
+    margin-top: 40PX;
+    margin-left: 50px;
+    padding: 7px;
+    background-color: #F2F2F2;
+    color: gray;
+    font-size: 20px;
+    border: none;
+}
+.user_logo a img{
+    width: 20px;
+    height: 20px;
+    margin: 50px;
+}
+a:hover{
+    font-size: 18px;
+}
+.header2 a{
+    text-decoration: none;
+    color: grey;
+    margin-left: 30px;
+}
+.title{
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 50px;
+}
+form{
+    margin: 40px;
+}
+form label{
+    font-size: 23px;
+    margin: 10px;
+}
+form input{
+    margin-left: 10px;
+    padding-left: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    background-color: #F2F2F2;
+    color: gray;
+    font-size: 20px;
+    border: none;
+    width: 600px;
+}
+button{
+    background-color: black;
+    color: aliceblue;
+    width: 170px;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 22px;
+}
+.footer a:hover{
+    text-decoration: none;
+}
+
