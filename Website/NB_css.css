@@ -11,10 +11,16 @@ body{
     background-color: black;
 }
 .logo_acceuil a img{
-    margin-top: 15px;
+    margin-top: -20px;
     margin-left: 80px;
-    width: 90px;
-    height: 90px;
+    width: 200px;
+    height: 200px;
+}
+.titles ul li a:hover{
+    color: red;
+}
+.titles ul li a{
+    color: black;
 }
 
 .header input{
@@ -83,4 +89,17 @@ a:hover{
     height: 320px;
     width: 286px;
     margin-top: -20px;
+}
+#btn{
+    width: 70px;
+    height: 70px;
+    border: none;
+    border-radius: 35px;
+    background: #c72931;
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 25px;
+    display: none;
 }

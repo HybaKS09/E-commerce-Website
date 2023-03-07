@@ -10,11 +10,17 @@ body{
     font-size: 17.2px;
     background-color: black;
 }
+.titles ul li a{
+    color: black;
+}
+.titles ul li a:hover{
+    color: red;
+}
 .logo_acceuil a img{
-    margin-top: 15px;
+    margin-top: -20px;
     margin-left: 80px;
-    width: 90px;
-    height: 90px;
+    width: 200px;
+    height: 200px;
 }
 
 .header input{
@@ -42,10 +48,13 @@ a:hover{
 }
 .header3 span{
     margin-left: 150px;
-    color: red;
+    color: #C72931;
     text-decoration: underline;
     padding: 20px;
     font-size: 20px;
+}
+.card-body a{
+    background: #C72931;
 }
 .title{
     margin-top: 30px;
@@ -53,7 +62,7 @@ a:hover{
     font-size: 50px;
 }
 .header2 a:hover{
-    color: red;
+    color: #C72931;
     text-decoration: underline;
 }
 .header2 h1{
@@ -68,7 +77,7 @@ a:hover{
 }
 .header4 span{
     margin-left: 150px;
-    color: red;
+    color: #C72931;
     text-decoration: underline;
     padding: 20px;
     font-size: 20px;
@@ -79,4 +88,17 @@ a:hover{
 .col-lg-4{
     margin-top: 50px;
     margin-left: 40px;
+}
+#btn{
+    width: 70px;
+    height: 70px;
+    border: none;
+    border-radius: 35px;
+    background: #c72931;
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 25px;
+    display: none;
 }
