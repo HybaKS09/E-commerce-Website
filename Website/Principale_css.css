@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+.p-1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17.2px;
+    background-color: black;
+
+}
+.logo_acceuil a img{
+    margin-top: -20px;
+    margin-left: 80px;
+    width: 200px;
+    height: 200px;
+}
+
+.header input{
+    width: 600px;
+    margin-top: 40PX;
+    margin-left: 50px;
+    padding: 7px;
+    background-color: #F2F2F2;
+    color: gray;
+    font-size: 20px;
+    border: none;
+}
+
+
+.user_logo a img{
+    width: 20px;
+    height: 20px;
+    margin: 50px;
+}
+.titles ul li a{
+    color: black;
+}
+.titles ul li a:hover{
+    color: red;
+    font-size: 20px;
+}
+
+.home_pic img{
+    border-radius: 5px;
+}
+.pic_para{
+    color: #d92815;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.col-lg-8 span{
+    font-size: 40px;
+
+}
+
+.social-icons{
+    margin-top: 80px;
+    background-color: black;
+    color: aliceblue;
+}
+.header_product{
+    font-size: 40px;
+    
+}
+.header_product hr{
+    width: 200px;
+}
+.product span{
+    font-size: 30px;
+    margin-left: 100px;  
+    padding: -10px; 
+}
+.product a{
+    text-decoration: none;
+    color: black;
+
+}
+.product a:hover{
+    color: #d92815;
+}
+.product{
+    margin-left: 50px;
+}
+.product hr{
+    width: 70px;
+    margin-left: 110px;   
+}
+.product a img{
+    height: 200px;
+    width: 200px;
+    margin: 30px;
+}
+.product a img:hover{
+    border: black solid 3px;
+    border-radius: 10px;
+    padding: 20px;
+}
