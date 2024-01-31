@@ -12,6 +12,8 @@ Welcome to Sneaker Haven, your ultimate destination for trendy sneakers! This st
 ## Home
 
 The "Home" page, also known as "Acceuil," is the landing page of Sneaker Haven. This is where visitors get their first glimpse of the latest and most popular sneakers available. The page is designed to be visually appealing, featuring a mix of high-quality images and informative content to engage users.
+![Screenshot 2024-01-31 154756](https://github.com/HybaKS09/E-commerce-Website/assets/126948563/4d93955e-48be-4f7b-b027-575ae2e32200)
+![Screenshot 2024-01-31 154906](https://github.com/HybaKS09/E-commerce-Website/assets/126948563/4611ae3e-a5ee-4b6a-b185-6d74ec40bc81)
 
 ## About
 
