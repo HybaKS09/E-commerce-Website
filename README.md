@@ -18,6 +18,11 @@ The "Home" page, also known as "Acceuil," is the landing page of Sneaker Haven. 
 ## About
 
 The "About" page provides a brief background on Sneaker Haven. Visitors can learn about the mission, vision, and values of the website. This section may also include information about the team behind Sneaker Haven and the passion for sneakers that drives the business.
+![Screenshot 2024-01-31 163437](https://github.com/HybaKS09/E-commerce-Website/assets/126948563/e3636637-9b07-4c0e-a3ab-0879873ff4a8)
+![Screenshot 2024-01-31 163454](https://github.com/HybaKS09/E-commerce-Website/assets/126948563/f2cffaf9-72d4-4a23-bd75-0982b7f93a3f)
+![Screenshot 2024-01-31 163509](https://github.com/HybaKS09/E-commerce-Website/assets/126948563/65ade2b1-cfc6-4835-ba87-164e5ef4989d)
+
+
 
 ## Contact
 
