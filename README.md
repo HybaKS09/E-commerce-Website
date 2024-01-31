@@ -1,6 +1,6 @@
 # Sneaker - E-Commerce Website
 
-Welcome to Sneaker Haven, your ultimate destination for trendy sneakers! This static e-commerce website is built using HTML, CSS, JavaScript, and Bootstrap. Below, you'll find information on the different pages included in the project.
+Welcome to Sneaker WebSite, your ultimate destination for trendy sneakers! This static e-commerce website is built using HTML, CSS, JavaScript, and Bootstrap. Below, you'll find information on the different pages included in the project.
 
 ## Table of Contents
 
