@@ -27,7 +27,14 @@ The "About" page provides a brief background on Sneaker Haven. Visitors can lear
 ## Contact
 
 The "Contact" page is where users can get in touch with Sneaker Haven. It includes a contact form, allowing visitors to send messages, inquiries, or feedback directly to the team. Additionally, essential contact information such as email addresses and phone numbers may be provided for alternative communication channels.
+![Screenshot 2024-01-31 163753](https://github.com/HybaKS09/E-commerce-Website/assets/126948563/2eaec8ca-955d-4ba3-94c6-b8b2a55be46c)
+![Screenshot 2024-01-31 163806](https://github.com/HybaKS09/E-commerce-Website/assets/126948563/9102b669-5081-4f4b-a504-70328b20d68b)
+
+
 
 ## Sneaker Brands
 
 The "Sneaker Brands" pages showcase a curated selection of popular sneaker brands available on Sneaker Haven. Each brand has its dedicated page, featuring a collection of sneakers, brand history, and any unique characteristics that set the brand apart. Users can navigate through the different pages to explore their favorite brands and discover new ones.
+![Screenshot 2024-01-31 164021](https://github.com/HybaKS09/E-commerce-Website/assets/126948563/a62b1663-b442-4af9-a4cb-efb799aa8e1d)
+
+
